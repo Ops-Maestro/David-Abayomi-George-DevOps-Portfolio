@@ -1,0 +1,8 @@
+.git
+.github
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+README.md
+# (Keep the resume if you want it in the container, otherwise ignore it)
